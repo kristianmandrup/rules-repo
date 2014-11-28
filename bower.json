@@ -1,0 +1,29 @@
+{
+  "name": "rules-repo",
+  "main": [
+    "dist/rules-repo.js",
+    "dist/rules-repo.min.js"
+  ],
+  "version": "0.1.0",
+  "homepage": "https://github.com/kristianmandrup/rules-repo",
+  "authors": [
+    "Kristian Mandrup <kmandrup@gmail.com>"
+  ],
+  "description": "Rules repository",
+  "keywords": [
+    "authorization",
+    "rules",
+    "access",
+    "security",
+    "repo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
