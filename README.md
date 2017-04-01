@@ -1,5 +1,7 @@
 # Rules
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/rules-repo.svg)](https://greenkeeper.io/)
+
 Rules is a stand-alone library for implementing authorization rules with any authorization library.
 It was extracted from [permit-authorize](https://github.com/kristianmandrup/permit-authorize) and designed
 for DI which allows for easier customization.
